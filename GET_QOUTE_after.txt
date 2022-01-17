@@ -1,0 +1,302 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en">
+<meta http-equiv="Content-Type" content="text/html charset=UTF-8"/>
+<body>
+<table cellspacing="0" cellpadding="0" border="0" width="100%;" style="font-family: Arial, Helvetica, sans-serif; font-size: 12px;">
+    <tr>
+        <td align="center" colspan="3" style="padding: 15px 0;">
+
+            <table cellspacing="0" cellpadding="0" border="0" width="638">
+                
+
+<tr>
+    <td colspan="3" style="border: 3px solid #dedede; padding: 10px 23px;">
+        <table cellspacing="0" cellpadding="0" border="0" width="100%">
+            <tr>
+                <td id="dealer-logo" align="left" width="50%" style="width:50%">
+                                    </td>
+                <td align="right" width="50%" style="width:50%">
+                    <table cellspacing="0" cellpadding="0" border="0">
+                        <tr>
+                            <td>
+                                <b><span id="dealer-location"
+                                         style="font-family: Arial, Helvetica, sans-serif;font-size: 17px;">Minneapolis</span><br/>
+                                    <span id="dealer-address" style="font-family: Arial, Helvetica, sans-serif;font-size: 14px;" color="#4f4f4f">
+                                        960 S Wilder St, St Paul, MN 55116                                         <br/>
+                                        Minneapolis, MN, 55116                                        <br/>
+                                        <a href="tel:3333333333">3333333333</a>
+                                    </span>
+                                </b>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+    </td>
+</tr>
+
+
+    <tr>
+        <td height="15" colspan="3"></td>
+    </tr>
+                                                                <tr>
+                    <td width="313" valign="top" style="border: 3px solid #dedede;">
+    <table cellspacing="0" cellpadding="0" border="0" width="100%;" style="font-size: 12px;">
+        <tr>
+            <td align="center" style="padding: 15px 0 5px;">
+                <img id="model-brand-logo" alt="Pirelli Cinturato P7™ ALL SEASON" src="https://GWL-7593-fix-display-email-tem.test.tireconnect.ca/uploads/brand/thumbs/300_25__scale__ab15f3c653d0b95dcbd4a065f4858bd96c5a2275.png" />                <h1 id="model-name" style="margin: 5px 0; padding: 0; font-size: 17px; font-weight: bold;font-family: Arial, Helvetica, sans-serif;">Pirelli Cinturato P7™ ALL SEASON</h1>
+                                    <img id="model-image" alt="Pirelli Cinturato P7™ ALL SEASON" src="https://GWL-7593-fix-display-email-tem.test.tireconnect.ca/uploads/tires/thumbs/1/300_215__scale__pi_cinturato_p7_all_season_l.jpg" />                            </td>
+        </tr>
+                                            <tr>
+                <td bgcolor="#dedede" align="center" style="padding: 5px; font-size: 14px;font-family: Arial, Helvetica, sans-serif;">
+                    <b id="model-spec">SPECIFICATIONS</b>
+                </td>
+            </tr>
+            <tr>
+                <td align="center" style="padding: 5px 0;">
+                    <table cellspacing="0" cellpadding="0" border="0" width="250" style="font-size: 12px; line-height: 21px;font-family: Arial, Helvetica, sans-serif;">
+                        <tr>
+                            <td align="left" style="font-family: Arial, Helvetica, sans-serif;">
+                                <b style="font-family: Arial, Helvetica, sans-serif;">Size</b>
+                            </td>
+                            <td align="right" style="font-family: Arial, Helvetica, sans-serif;">
+                                <b id="model-spec-size" style="font-family: Arial, Helvetica, sans-serif;">205/55R16</b>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td align="left" style="font-family: Arial, Helvetica, sans-serif;">
+                                <b style="font-family: Arial, Helvetica, sans-serif;">Part</b>
+                            </td>
+                            <td align="right" style="font-family: Arial, Helvetica, sans-serif;">
+                                <b id="model-spec-partnumber" style="font-family: Arial, Helvetica, sans-serif;">2041200</b>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td align="left" style="font-family: Arial, Helvetica, sans-serif;">
+                                Category                            </td>
+                            <td id="model-spec-category" align="right" style="font-family: Arial, Helvetica, sans-serif;">
+                                Touring                            </td>
+                        </tr>
+                        <tr>
+                            <td align="left" style="font-family: Arial, Helvetica, sans-serif;">
+                                Season                            </td>
+                            <td id="model-spec-category" align="right" style="font-family: Arial, Helvetica, sans-serif;">
+                                All Season                            </td>
+                        </tr>
+                        <tr>
+                            <td align="left" style="font-family: Arial, Helvetica, sans-serif;">
+                                Speed rating                            </td>
+                            <td id="model-spec-speed-rating" align="right" style="font-family: Arial, Helvetica, sans-serif;">
+                                                                V (149 mph)                            </td>
+                        </tr>
+                        <tr>
+                            <td align="left" style="font-family: Arial, Helvetica, sans-serif;">
+                                Load index                            </td>
+                            <td id="model-spec-load-index" align="right" style="font-family: Arial, Helvetica, sans-serif;">
+                                91                            </td>
+                        </tr>
+                        <tr>
+                            <td align="left" style="font-family: Arial, Helvetica, sans-serif;">
+                                Warranty                            </td>
+                            <td id="model-spec-warranty" align="right" style="font-family: Arial, Helvetica, sans-serif;">
+                                                                    N/A                                                            </td>
+                        </tr>
+                        <tr>
+                            <td align="left" style="font-family: Arial, Helvetica, sans-serif;">
+                                UTQG                            </td>
+                            <td id="model-spec-warranty" align="right" style="font-family: Arial, Helvetica, sans-serif;">
+                                                                <span>500 A A</span>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td align="left" style="font-family: Arial, Helvetica, sans-serif;">
+                                Run Flat<br/>                            </td>
+                            <td align="right" style="font-family: Arial, Helvetica, sans-serif;">
+                                Yes<br/>                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+                            <tr>
+                <td bgcolor="#dedede" align="center" style="padding: 5px; font-size: 14px;font-family: Arial, Helvetica, sans-serif;">
+                    <b id="model-features">
+                        FEATURES                    </b>
+                </td>
+            </tr>
+            <tr>
+                <td align="left" style="padding: 5px 0 0 0;">
+                    <table cellspacing="0" cellpadding="0" border="0" style="width:100%">
+                                                    <tr>
+                                <td style="width:20px; font-size: 12px; padding: 5px 0; vertical-align: top;" align="center" valign="top">
+                                    <b>&bull;</b>
+                                </td>
+                                <td class="model-features" align="left" style="width:280px; font-family: Arial, Helvetica, sans-serif; font-size: 12px; padding: 5px 0;">
+                                    <b>ENERGY™ EFFICIENT</b></br>                                    Up to 20% less rolling resistance as a result of the improved tread compound, sidewall geometry and internal tire structure. Result: Reduction of almost 4% in fuel consumption and CO2 emissions.                                </td>
+                            </tr>
+                                                    <tr>
+                                <td style="width:20px; font-size: 12px; padding: 5px 0; vertical-align: top;" align="center" valign="top">
+                                    <b>&bull;</b>
+                                </td>
+                                <td class="model-features" align="left" style="width:280px; font-family: Arial, Helvetica, sans-serif; font-size: 12px; padding: 5px 0;">
+                                    <b>CLEAN AIR</b></br>                                    In addition to the reduced fuel consumption and emissions, the Cinturato Family is 100 percent free of highly aromatic oils, due to its new, specially developed polymers and the process used to mix the compound. Result: Minimized toll on the environment.                                </td>
+                            </tr>
+                                                    <tr>
+                                <td style="width:20px; font-size: 12px; padding: 5px 0; vertical-align: top;" align="center" valign="top">
+                                    <b>&bull;</b>
+                                </td>
+                                <td class="model-features" align="left" style="width:280px; font-family: Arial, Helvetica, sans-serif; font-size: 12px; padding: 5px 0;">
+                                    <b>LOW NOISE</b></br>                                    Lower road noise thanks to a special tread profile, carcass design and materials. Result: Noise reduction of 1dB corresponding to a 30% reduction in subjectively perceived tire noise.                                </td>
+                            </tr>
+                                                    <tr>
+                                <td style="width:20px; font-size: 12px; padding: 5px 0; vertical-align: top;" align="center" valign="top">
+                                    <b>&bull;</b>
+                                </td>
+                                <td class="model-features" align="left" style="width:280px; font-family: Arial, Helvetica, sans-serif; font-size: 12px; padding: 5px 0;">
+                                    <b>HIGH MILEAGE</b></br>                                    Improved performance through optimizing the tread contact area, tread compound and profile design. Result: Increased average tire life while maintaining high safety characteristics and performance.                                </td>
+                            </tr>
+                                            </table>
+                </td>
+            </tr>
+            </table>
+</td>
+                    <td width="12"></td>
+                    <td width="313" valign="top">
+    <table cellspacing="0" cellpadding="0" border="0" width="100%;">
+        <tr>
+            <td style="border: 3px solid #dedede;" width="100%;">
+                <table cellspacing="0" cellpadding="0" border="0" width="307">
+                    <tr>
+                        <td bgcolor="#dedede" align="center" style="font-size: 24px; padding: 10px;font-family: Arial, Helvetica, sans-serif;">
+                                                                                            <b id="quote-number" style="font-family: Arial, Helvetica, sans-serif;">QUOTE # 232834</b>
+                                <br/>
+                                <span id="quote-date" style="font-size: 14px;font-family: Arial, Helvetica, sans-serif;">
+                                    January 17 2022                                </span>
+                                                    </td>
+                    </tr>
+                                            <tr>
+                            <td>
+                                <table cellpadding="0" border="0" cellspacing="5" width="100%" style="font-size: 12px;">
+                                                                            <tr>
+                                            <td align="left" colspan="2" style="font-family: Arial, Helvetica, sans-serif;font-weight: bold; font-size: 14px;">
+                                                Quantity                                            </td>
+                                            <td align="left" style="font-family: Arial, Helvetica, sans-serif;font-weight: bold; font-size: 14px;">
+                                                4                                            </td>
+                                        </tr>
+                                                                                                                                                </table>
+                            </td>
+                        </tr>
+                                    </table>
+            </td>
+        </tr>
+        
+        
+                    <tr>
+                <td height="11"></td>
+            </tr>
+                            <tr>
+                    <td id="quote-legal-text" style="border: 3px solid #dedede; padding: 5px;">
+                        Prices are subject to change at any time<br />
+Tire size and fitment will be verified at the time of installation<br />
+Additional charges may apply for vehicles with specialty or custom wheel packages.                    </td>
+                </tr>
+                    
+        
+                    <tr>
+                <td height="11"></td>
+            </tr>
+            <tr>
+                <td style="border: 3px solid #dedede;">
+                    <table cellspacing="0" cellpadding="0" border="0" style="width:100%; font-family: Arial, Helvetica, sans-serif;">
+                                                                                <tr>
+                                <td bgcolor="#dedede" align="center" style="padding: 5px; font-size: 14px;">
+                                    <b style="font-family: Arial, Helvetica, sans-serif;">CUSTOMER INFORMATION</b>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align="center" style="padding: 5px;">
+                                    <table cellspacing="0" cellpadding="0" border="0" width="285" style="font-size: 12px; line-height: 21px;">
+                                                                                                                                <tr>
+                                                <td align="left" width="44%" style="font-family: Arial, Helvetica, sans-serif;">
+                                                    <b style="font-family: Arial, Helvetica, sans-serif">Name</b>                                                </td>
+                                                <td width="56%" align="right" style="font-family: Arial, Helvetica, sans-serif">
+                                                    <b style='font-family: Arial, Helvetica, sans-serif'>
+                                                                                                        Ruslan Korobko                                                    
+                                                    </b>                                                </td>
+                                            </tr>
+                                                                                                                                <tr>
+                                                <td align="left" width="44%" style="font-family: Arial, Helvetica, sans-serif;">
+                                                    Phone                                                </td>
+                                                <td width="56%" align="right" style="font-family: Arial, Helvetica, sans-serif">
+                                                    
+                                                    <a href='tel:3333333333'>                                                    3333333333                                                    </a>
+                                                                                                    </td>
+                                            </tr>
+                                                                                                                                <tr>
+                                                <td align="left" width="44%" style="font-family: Arial, Helvetica, sans-serif;">
+                                                    Email                                                </td>
+                                                <td width="56%" align="right" style="font-family: Arial, Helvetica, sans-serif">
+                                                    
+                                                                                                        gilbert15ruslan@gmail.com                                                    
+                                                                                                    </td>
+                                            </tr>
+                                                                                                                                <tr>
+                                                <td align="left" width="44%" style="font-family: Arial, Helvetica, sans-serif;">
+                                                    Preferred method of contact                                                </td>
+                                                <td width="56%" align="right" style="font-family: Arial, Helvetica, sans-serif">
+                                                    
+                                                                                                        email                                                    
+                                                                                                    </td>
+                                            </tr>
+                                                                                                                                
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                                                            </table>
+                                </td>
+                            </tr>
+                                                                    </table>
+                </td>
+            </tr>
+                            <tr>
+                <td height="11"></td>
+            </tr>
+            <tr>
+                <td style="border: 3px solid #dedede;">
+                    <table cellspacing="0" cellpadding="0" border="0" width="307">
+                        <tr>
+                            <td bgcolor="#dedede" align="center" style="padding: 5px; font-size: 14px;">
+                                <b style="font-family: Arial, Helvetica, sans-serif;">SUPPLIER INFORMATION</b>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style="padding: 5px 11px; font-size: 12px;font-family: Arial, Helvetica, sans-serif;">
+                                                                                                        Test Feed                                    <br>
+                                                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            </table>
+</td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+    <tr>
+            </tr>
+
+            <tr>
+            <td colspan="3" align="center">
+                                <a href="https://devapp.tireconnect.ca/web/812f36a78d263381b9b310994f618f22#!request_quote?location_id=13424&amp;tire_ids%5B0%5D=UGlyZWxsaXx8MjA0MTIwMHx8dGVzdGZlZWR8fDEzNDI0fHxC" target="_blank">
+                    Continue Shopping                </a>
+                                |                                <a href="https://GWL-7593-fix-display-email-tem.test.tireconnect.ca/quote/show/56768eeaa1f023c7608b96f04fd09b02" target="_blank">
+                    View in Browser                </a>
+                            </td>
+        </tr>
+        </table>
+</body>
+</html>

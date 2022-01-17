@@ -1,0 +1,152 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="x-apple-disable-message-reformatting">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+
+<table role="presentation">
+    <tbody>
+    <tr>
+        <td>
+            <div style="background-color: #efefef; margin:0; padding: 0; width: 692px!important;">
+                <div style="margin:5px 6px; font-family: Arial">
+                    <table style="width:680px; border-spacing: 0 5px;" role="presentation">
+                        <tbody>
+                        <tr style="background-color: #fff;">
+                            <td style="width: 475px!important;">
+                                                            </td>
+                            <td style="width:205px!important; font-size:14px;">
+                                <h3 style="text-transform: uppercase;color: #004990;margin:0;padding: 0;">Minneapolis</h3>
+                                <div style="display: block; margin: 4px 0 12px 0; font-weight: 700"><a href="tel:3333333333">3333333333</a></div>
+                                <div style="display: block;margin-bottom:4px; color:#222!important;">960 S Wilder St, St Paul, MN 55116 </div>
+                                <div style="display: block;margin-bottom:4px; color:#222!important;">Minneapolis, MN, 55116</div>
+                                                                    <a
+                                            href="http://maps.google.com/?q=44.9128,-93.1834&ll=44.9128,-93.1834&z=17"
+                                            target="_blank"
+                                            style="text-transform: uppercase;color: #004990; font-weight: 700"
+                                    >
+                                        Get Directions
+                                    </a>
+                                                            </td>
+                        </tr>
+                        </tbody>
+                    </table>
+                    <table style="background-color: #fff; table-layout: fixed;  width: 680px!important; border-spacing: 0 15px" role="presentation">
+                        <tr>
+                            <td colspan="2" style="padding: 0 17px; width:646px!important;">
+                                <h1 style="text-align: center; margin-bottom:0; color:black!important;">We noticed you left something behind</h1>
+                                <h2 style="font-weight: 300; text-align: center; margin-top:12px; color:black!important;">Would you like to complete your purchase?</h2>
+                                <p style="margin: 0; font-size:14px; color:black!important;">Hello Ruslan Korobko,
+                                    <br><br>
+                                    We noticed that you have tires in your shopping cart, but didn’t complete your checkout. Don’t take too long, pricing and availability are subject to change. When you are ready to buy, simply visit your
+                                    <a href="https://devapp.tireconnect.ca/web/812f36a78d263381b9b310994f618f22#!checkout?location_id=13424&amp;quantities%5B0%5D=4&amp;tire_ids%5B0%5D=SXJvbm1hbnx8OTEwNjR8fHRlc3RmZWVkfHwxMzQyNHx8Qg%3D%3D&amp;name=Ruslan%20Korobko&amp;wayToContact=email&amp;email=gilbert15ruslan%40gmail.com&amp;phone=3333333333&amp;preferredTime=2022-01-27%2000%3A00%3A00&amp;notes=&amp;vehicle%5Byear%5D=2021&amp;vehicle%5Bmake%5D=Aston%20Martin&amp;vehicle%5Bmodel%5D=DBS&amp;vehicle%5Btrim%5D=Superleggera&amp;vehicle%5Bcar_tire_id%5D=172556&amp;with_discount=true"
+                                       style="color:black">shopping cart</a> to complete your order.
+                                </p>
+                            </td>
+                        </tr>
+                    </table>
+                    <div style="background-color: #fff; width: 680px!important;">
+                        <table width="658" style="background-color: #fff; table-layout: fixed;  width: 658px!important; margin:0 auto; border-spacing: 0; border-top:1px solid #ccc; border-left:1px solid #ccc; border-right:1px solid #ccc;" role="presentation">
+                            <tbody>
+                            <tr style="">
+                                <td style="width: 343px!important; text-align:center; font-weight: 900;">
+                                                                            <div>
+                                            <img src="https://GWL-7593-fix-display-email-tem.test.tireconnect.ca/uploads/brand/0c348a1d58bb6a14a4d9b857400844007b6938f1.png" alt="Ironman"
+                                                 style="display: block; margin: 5px auto 0 auto; max-height: 45px;">
+                                        </div>
+                                    
+                                    <img src="https://GWL-7593-fix-display-email-tem.test.tireconnect.ca/uploads/tires/pre_up/1/Ironman/images/im_radial_rb_12_l.jpg" alt="Tire"
+                                         style="margin:0 auto; display: block; max-height: 215px; max-width: 140px;">
+                                </td>
+                                <td style="width: 300px!important;">
+                                    <h3 style="text-transform: uppercase; display: block; margin:0; letter-spacing: -.3px;">RB-12</h3>
+                                    <span style="text-transform: uppercase;
+                            display: block;
+                            font-size:12px;
+                            margin: 10px 0 0 0">Touring</span>
+                                                                        <span style="line-height:1.9; font-size:12px!important; color: #000!important">Size: <span style="font-weight: 700">205/55R16 91T</span></span><br>
+                                    <span style="line-height:1.9; font-size:12px!important; color: #000!important">Speed Rating: <span style="font-weight: 700">T (118 mph)</span></span><br>
+                                    <span style="line-height:1.9; font-size:12px!important; color: #000!important">Load index: <span style="font-weight: 700">91</span></span><br>
+                                    <span style="line-height:1.9; font-size:12px!important; color: #000!important">Sidewall: <span style="font-weight: 700">BW</span></span><br>
+                                    <span style="line-height:1.9; font-size:12px!important; color: #000!important">Part: <span style="font-weight: 900">91064</span></span><br>
+                                                            </td>
+                            </tr>
+
+                            
+                            </tbody>
+                        </table>
+                    </div>
+                    <div style="background-color: #fff; width: 680px!important;">
+                        <table width="658" style="background-color: #fff;
+                                        table-layout: fixed;
+                                        margin:0 auto;
+                                        width: 658px;
+                                        border-spacing: 25px;
+                                        border-left: 1px solid #ccc;
+                                        border-bottom: 1px solid #ccc;
+                                        border-right: 1px solid #ccc;" role="presentation">
+                            <tr>
+                                <td colspan="2" style="text-align: center; width: 580px!important;">
+                                    <a href="https://devapp.tireconnect.ca/web/812f36a78d263381b9b310994f618f22#!checkout?location_id=13424&amp;quantities%5B0%5D=4&amp;tire_ids%5B0%5D=SXJvbm1hbnx8OTEwNjR8fHRlc3RmZWVkfHwxMzQyNHx8Qg%3D%3D&amp;name=Ruslan%20Korobko&amp;wayToContact=email&amp;email=gilbert15ruslan%40gmail.com&amp;phone=3333333333&amp;preferredTime=2022-01-27%2000%3A00%3A00&amp;notes=&amp;vehicle%5Byear%5D=2021&amp;vehicle%5Bmake%5D=Aston%20Martin&amp;vehicle%5Bmodel%5D=DBS&amp;vehicle%5Btrim%5D=Superleggera&amp;vehicle%5Bcar_tire_id%5D=172556&amp;with_discount=true" style="box-sizing: content-box;background-color: #004990;border-bottom: 12px solid #004990;border-top: 12px solid #004990;color: #fff;font-size: 20px;text-decoration: none;display: inline-block;box-shadow: 0 6px 1px -3px rgba(0, 0, 0, 0.15);text-transform: uppercase;font-size: 18px;letter-spacing: -1px;display: inline-block;">
+                                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                        Complete My Purchase
+                                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                    </a>
+                                </td>
+                            </tr>
+                        </table>
+                    </div>
+                    <div style="background-color: #fff; width: 680px!important;">
+                        <table width="658" style="background-color: #fff;
+            table-layout: fixed;
+            margin: 0 auto;
+            width: 658px;
+            padding-bottom:40px;" role="presentation">
+                            <tr style="margin:0 auto;">
+                                <td colspan="2" style="text-align: center; width: 646px!important;">
+                                    <h2 style="display: block; margin:29px 0 16px 0; font-size: 25px; color:black!important;">Are you looking for more tire options?</h2>
+                                    <p style="display: block; font-size:19.76px; margin: 16px 0 27px 0; color:black!important;">We carry an amazing product selection</p>
+                                    <a href="https://devapp.tireconnect.ca/web/812f36a78d263381b9b310994f618f22#!search?width=205&amp;height=55&amp;rim=16&amp;location_id=13424&amp;auto_submit=1" style="box-sizing: content-box;background-color: #004990;border-bottom: 12px solid #004990;border-top: 12px solid #004990;color: #fff;font-size: 20px;text-decoration: none;display: inline-block;box-shadow: 0 6px 1px -3px rgba(0, 0, 0, 0.15);text-transform: uppercase;font-size: 18px;letter-spacing: -1px;display: inline-block;">
+                                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                        Find your tires
+                                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                    </a>
+                                </td>
+                            </tr>
+                        </table>
+                    </div>
+                    <table width="658" style="background-color: #32373b; color:white; text-align: center; width: 680px!important;" role="presentation">
+                        <tr>
+                            <td>
+                                <p style="font-size:14px;">
+                                    If you need any help, just reply to this email or call us at 3333333333 and we would love to help you with your purchase.
+                                </p>
+                            </td>
+                        </tr>
+                    </table>
+                    <table width="658" style="background-color: #efefef; color: #6A6C71!important; font-size:12px; text-align: center; width: 680px!important;" role="presentation">
+                        <tr>
+                            <td style="width: 652px!important;">
+                                <p style="line-height: 1.5">
+                                    <!--
+                                    Having trouble viewing this email?<br>
+                                    <a href="#" style="color:#96999d">Check it out in your browser ></a><br>
+                                    -->
+                                    <br>Edit your subscription settings<br>
+                                    <a href="https://GWL-7593-fix-display-email-tem.test.tireconnect.ca/backend.php/unsubscribe/common?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJlbWFpbCI6ImdpbGJlcnQxNXJ1c2xhbkBnbWFpbC5jb20iLCJkZWFsZXJfaWQiOjEyMDU1LCJjdWx0dXJlIjoiZW5fVVMiLCJleHAiOjE2NzM5NTQ0Mzd9.UOF6paG4N-geFPcEJLcVo9W85OPlkvb_KmIaC-WYltKAbuxjOVpmJHC8d7BcDi_b-2W2Y002w0Od2s2RUKAApkbwcNItP8BzsDJdc5mH0bTgV4mglUXvaiFxkwFw6A3L_JN6DeDQjao1jUrUhMtyLXHdsxbrxTZ_D3qTSXEosWo"
+                                       style="color:#96999d; text-decoration: none">Subscription settings
+                                        ></a>
+                                </p>
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+            </div>
+        </td>
+    </tr>
+    </tbody>
+</table>
+</html>
