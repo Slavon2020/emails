@@ -60,9 +60,6 @@
 This offer used in AT.<br />
 Please don&#039;t touch it.                                </div>
                                                                                             </td>
-                            <td align="right" valign="bottom"
-                                style="vertical-align:bottom; text-align:right; width:150px; font-family: Arial, Helvetica, sans-serif;">
-                                                            </td>
                         </tr>
                     </table>
                 </td>
@@ -87,7 +84,7 @@ Please don&#039;t touch it.                                </div>
 </tr>
                                                 <tr>
                     <td width="313" valign="top" style="border: 3px solid #dedede;">
-    <table cellspacing="0" cellpadding="0" border="0" width="100%;" style="font-size: 12px;">
+    <table cellspacing="0" cellpadding="0" border="0" width="100%" style="font-size: 12px;">
         <tr>
             <td align="center" style="padding: 15px 0 5px;">
                 <img id="model-brand-logo" alt="Ironman RB-12" src="https://GWL-7593-fix-display-email-tem.test.tireconnect.ca/uploads/brand/thumbs/300_25__scale__0c348a1d58bb6a14a4d9b857400844007b6938f1.png" />                <h1 id="model-name" style="margin: 5px 0; padding: 0; font-size: 17px; font-weight: bold;font-family: Arial, Helvetica, sans-serif;">Ironman RB-12</h1>
@@ -171,7 +168,7 @@ Please don&#039;t touch it.                                </div>
             </tr>
             <tr>
                 <td align="left" style="padding: 5px 0 0 0;">
-                    <table cellspacing="0" cellpadding="0" border="0" style="width:100%">
+                    <table cellspacing="0" cellpadding="0" border="0" style="width:100%;">
                                                         <tr>
                                     <td style="width:20px; font-size: 12px; padding: 5px 0; vertical-align: top;" align="center" valign="top">
                                         <b>&bull;</b>
@@ -214,10 +211,10 @@ Please don&#039;t touch it.                                </div>
 </td>
                     <td width="12"></td>
                     <td width="313" valign="top">
-    <table cellspacing="0" cellpadding="0" border="0" width="100%;">
+    <table cellspacing="0" cellpadding="0" border="0" width="100%">
         <tr>
             <td style="border: 3px solid #dedede;" width="100%;">
-                <table cellspacing="0" cellpadding="0" border="0" width="307">
+                <table cellspacing="0" cellpadding="0" border="0" width="100%">
                     <tr>
                         <td bgcolor="#dedede" align="center" style="font-size: 24px; padding: 10px;font-family: Arial, Helvetica, sans-serif;">
                                                                                             <b id="quote-number" style="font-family: Arial, Helvetica, sans-serif;">ORDER # 30611</b>
@@ -435,7 +432,7 @@ Additional charges may apply for vehicles with specialty or custom wheel package
             </tr>
             <tr>
                 <td style="border: 3px solid #dedede;">
-                    <table cellspacing="0" cellpadding="0" border="0" width="307">
+                    <table cellspacing="0" cellpadding="0" border="0" style="width: 100%">
                         <tr>
                             <td bgcolor="#dedede" align="center" style="padding: 5px; font-size: 14px;">
                                 <b style="font-family: Arial, Helvetica, sans-serif;">SUPPLIER INFORMATION</b>

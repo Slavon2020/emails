@@ -42,7 +42,7 @@
     </tr>
                                                                 <tr>
                     <td width="313" valign="top" style="border: 3px solid #dedede;">
-    <table cellspacing="0" cellpadding="0" border="0" width="100%;" style="font-size: 12px;">
+    <table cellspacing="0" cellpadding="0" border="0" width="100%" style="font-size: 12px;">
         <tr>
             <td align="center" style="padding: 15px 0 5px;">
                 <img id="model-brand-logo" alt="Pirelli Cinturato P7™ ALL SEASON" src="https://GWL-7593-fix-display-email-tem.test.tireconnect.ca/uploads/brand/thumbs/300_25__scale__ab15f3c653d0b95dcbd4a065f4858bd96c5a2275.png" />                <h1 id="model-name" style="margin: 5px 0; padding: 0; font-size: 17px; font-weight: bold;font-family: Arial, Helvetica, sans-serif;">Pirelli Cinturato P7™ ALL SEASON</h1>

@@ -34,7 +34,7 @@
                         </tr>
                         </tbody>
                     </table>
-                    <table style="background-color: #fff; table-layout: fixed;  width: 680px!important; border-spacing: 0 15px" role="presentation">
+                    <table style="background-color: #fff; table-layout: fixed;  width: 680px; border-spacing: 0 15px" role="presentation">
                         <tr>
                             <td colspan="2" style="padding: 0 17px; width:646px!important;">
                                 <h1 style="text-align: center; margin-bottom:0; color:black!important;">We noticed you left something behind</h1>
